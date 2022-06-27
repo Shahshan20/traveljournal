@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shahshan20/travel-journal.git/static/css/main.4dc944f2.css",
-    "main.js": "/Shahshan20/travel-journal.git/static/js/main.88e34566.js",
-    "index.html": "/Shahshan20/travel-journal.git/index.html",
-    "main.4dc944f2.css.map": "/Shahshan20/travel-journal.git/static/css/main.4dc944f2.css.map",
-    "main.88e34566.js.map": "/Shahshan20/travel-journal.git/static/js/main.88e34566.js.map"
+    "main.css": "/Shahshan20/traveljournal/static/css/main.4dc944f2.css",
+    "main.js": "/Shahshan20/traveljournal/static/js/main.88e34566.js",
+    "index.html": "/Shahshan20/traveljournal/index.html",
+    "main.4dc944f2.css.map": "/Shahshan20/traveljournal/static/css/main.4dc944f2.css.map",
+    "main.88e34566.js.map": "/Shahshan20/traveljournal/static/js/main.88e34566.js.map"
   },
   "entrypoints": [
     "static/css/main.4dc944f2.css",
